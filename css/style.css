@@ -112,9 +112,13 @@ body{
     height: 80%;
 }
 .featured-container .featured-box .featured-single-two .featured-image img{
-    width: 75%;
-    height: 65%;
-    margin-top: 10px;
+    width: 80%;
+    height: 70%;
+    margin-top: 30px;
+}
+.featured-container .featured-box .featured-single-three .featured-image img{
+    width: 70%;
+    height: 85%;
 }
 
 
