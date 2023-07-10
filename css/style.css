@@ -6,6 +6,9 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+.primary-color{
+    color: #E55473;
+}
 .primary-btn{
     padding: 14px 25px;
     background-color: #E55473;
@@ -149,10 +152,43 @@ body{
 
 /* setvice section styles code end */
 
-
-
-
-
+/* Hot deals section styles code */
+.hot-deals{
+    margin-top: 90px;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.hot-deals-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    padding: 50px 0;
+}
+.hot-deals-container .hot-deals-content{
+    width: 50%;
+    text-align: center;
+ 
+}
+.hot-deals-container .hot-deals-content .hot-deals-title{
+    font-size: 30px;
+    font-weight: 900;
+}
+.hot-deals-container .hot-deals-content .hot-deals-desc{
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 25px;
+    color: rgba(39, 39, 39, 0.60);
+}
+.hot-deals-container .hot-deals-content .hot-deals-btn{
+    margin-top: 25px;
+}
+.hot-deals-container .hot-deals-pic{
+    margin-left: 0;
+}
+.hot-deals-container .hot-deals-pic img{
+    width: 250px;
+    margin-left: 0;
+}
 
 
 
