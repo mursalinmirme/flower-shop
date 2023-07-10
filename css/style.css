@@ -121,12 +121,33 @@ body{
     height: 85%;
 }
 
-
-
 /* featured section styles code end */
 
 
+/* setvice section styles code start */
+.services-container{
+    margin-top: 70px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.services-container .single-service{
+    text-align: center;
+    padding: 60px 0;
+}
+.services-container .single-service .service-icon{
+    width: 75px;
+}
+.services-container .single-service .service-title{
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.80);
+}
 
+
+/* setvice section styles code end */
 
 
 
