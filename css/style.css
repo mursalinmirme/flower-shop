@@ -6,7 +6,55 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+.primary-btn{
+    padding: 10px 20px;
+    background-color: #E55473;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+    color: #ffffff;
+}
+/* container for all sections */
+.container{
+    width: 1140px;
+    margin: auto;
+}
+/* banner section styles code start */
+.banner{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.banner-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("../assets/pngwing 10.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 505px;
+    
+}
+.banner-wrapper .banner-content{
+    padding: 150px 0;
+}
+.banner-wrapper .banner-content .banner-title{
+    font-size: 65px;
+    font-weight: 900;
+    color: #272727;
+    /* font-style: normal; */
+    line-height: 80px;
+}
+.banner-wrapper .banner-content .banner-desc{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    margin: 30px 0;
+    line-height: 26px;
+    width: 50%;
+}
 
+
+
+
+/* banner section styles code end */
 
 
 
