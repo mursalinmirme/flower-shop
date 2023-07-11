@@ -247,61 +247,61 @@ body {
   padding: 15px 25px;
 }
 /* Latest deals subscribe end */
+
 /* Our latest blogs section style code start */
-.letest-blog{
+.letest-blog {
   margin-top: 80px;
 }
-.latest-blog-container{
-  
+.latest-blog-container {
 }
-.latest-blog-container .blog-heading{
+.latest-blog-container .blog-heading {
   text-align: center;
   font-size: 33px;
   font-weight: 900;
   color: #272727;
 }
-.latest-blog-container .blog-sub-heading{
+.latest-blog-container .blog-sub-heading {
   text-align: center;
   margin-top: 20px;
   font-size: 16px;
   line-height: 24px;
   color: rgba(39, 39, 39, 0.7);
 }
-.latest-blog-container .blog-box{
+.latest-blog-container .blog-box {
   display: flex;
   justify-content: space-between;
   margin-top: 60px;
 }
-.latest-blog-container .blog-box .single-blog{
+.latest-blog-container .blog-box .single-blog {
   width: 360px;
   /* box-shadow: 0px 0px 5px 5px #e6e4e5; */
   box-shadow: 0px 0px 5px 4px #f3f0f2;
 }
-.latest-blog-container .blog-box .single-blog .blog-image{
+.latest-blog-container .blog-box .single-blog .blog-image {
   width: 100%;
 }
-.latest-blog-container .blog-box .single-blog .blog-desc{
+.latest-blog-container .blog-box .single-blog .blog-desc {
   padding: 20px 20px 25px;
 }
-.latest-blog-container .blog-box .single-blog .blog-desc .blog-title{
+.latest-blog-container .blog-box .single-blog .blog-desc .blog-title {
   color: #272727;
   font-size: 22px;
   margin-top: 5px;
-  /* text-decoration: underline; */
 }
-.latest-blog-container .blog-box .single-blog .blog-desc .blog-text{
+.latest-blog-container .blog-box .single-blog .blog-desc .blog-text {
   margin-top: 10px;
   font-size: 17px;
   line-height: 24px;
   font-weight: 400;
   color: rgba(39, 39, 39, 0.8);
 }
-.latest-blog-container .blog-box .single-blog .blog-desc .blog-text a{
+.latest-blog-container .blog-box .single-blog .blog-desc .blog-text a {
   color: #272727;
   font-size: 14px;
   font-weight: 600;
 }
 /* Our latest blogs section style code end */
+
 /* footer section styles code start */
 .footer {
   background: #111010;
@@ -333,17 +333,3 @@ body {
   color: rgba(255, 255, 255, 0.4);
 }
 /* footer section styles code end */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
