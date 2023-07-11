@@ -247,7 +247,35 @@ body {
   padding: 15px 25px;
 }
 /* Latest deals subscribe end */
+/* Our latest blogs section style code start */
+.letest-blog{
 
+}
+.latest-blog-container{
+
+}
+.latest-blog-container .blog-heading{
+  text-align: center;
+}
+.latest-blog-container .blog-sub-heading{
+
+}
+.latest-blog-container .blog-box{
+
+}
+.latest-blog-container .blog-box .single-blog{
+
+}
+.latest-blog-container .blog-box .single-blog .blog-image{
+
+}
+.latest-blog-container .blog-box .single-blog .blog-desc .blog-title{
+
+}
+.latest-blog-container .blog-box .single-blog .blog-desc .blog-text{
+
+}
+/* Our latest blogs section style code end */
 /* footer section styles code start */
 .footer {
   background: #111010;
@@ -279,3 +307,17 @@ body {
   color: rgba(255, 255, 255, 0.4);
 }
 /* footer section styles code end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
