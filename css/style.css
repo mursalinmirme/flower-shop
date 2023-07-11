@@ -217,7 +217,45 @@ body{
 }
 /* instagram section styles code start */
 
+/* Latest deals subscribe start */
+.subscribe-deals{
+    margin-top: 100px;
+}
+.subscribe-deals-container{
+    padding: 100px 00;
+    background-image: url('../assets/Rectangle 9.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.subscribe-deals-container .subscribe-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.subscribe-deals-container .subscribe-desc{
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(39, 39, 39, 0.60);
+}
+.subscribe-deals-container .subscribe-form{
+    text-align: center;
+    margin-top: 40px;
+}
+.subscribe-deals-container .subscribe-form input{
+    font-size: 16px;
+    padding: 15px;
+    width: 40%;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    font-family: 'Lato', sans-serif;
+}
+.subscribe-deals-container .subscribe-form button{
+    margin-left: 10px;
+}
 
+
+/* Latest deals subscribe end */
 
 
 
