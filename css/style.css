@@ -4,6 +4,7 @@
   padding: 0;
 }
 body {
+  width: 1536px;
   font-family: "Lato", sans-serif;
 }
 .primary-color {
