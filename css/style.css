@@ -253,11 +253,37 @@ body{
 .subscribe-deals-container .subscribe-form button{
     margin-left: 10px;
 }
-
-
 /* Latest deals subscribe end */
 
+/* footer section styles code */
+.footer{
+    background: #111010;
+    margin-top: 100px;
+}
+.footer-container{
+    padding: 100px 0;
+    color: #ffffff;
+}
+.footer-container .footer-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 900;
+    letter-spacing: 0.2px;
+    color: #ffffff;
+}
+.footer-container .footer-desc{
+    text-align: center;
+    margin-top: 20px;
+    line-height: 25px;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.80);
+}
 
-
-
+.footer-container .copyright-title{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.40);
+}
 
